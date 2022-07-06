@@ -1,0 +1,5 @@
+dag_id: 'FB'
+schedule_interval: '@daily'
+catchup: False
+tags: ['iungo', 'dynamic_dag']
+input: 23

@@ -1,0 +1,5 @@
+dag_id: 'GOOGLE'
+schedule_interval: '@daily'
+catchup: False
+tags: ['iungo', 'dynamic_dag']
+input: 12332
